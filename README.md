@@ -28,7 +28,7 @@ The source code is included and can be used for simulations, but it should be co
 ## 🖼️ Benchmark geometry
 
 <p align="center">
-  <img src="doc/l2sea_example.png" alt="DTMB 5415 hull" width="600">
+  <img src="doc/l2sea_example.png" alt="DTMB 5415 hull" width="300">
 </p>
 
 ---
