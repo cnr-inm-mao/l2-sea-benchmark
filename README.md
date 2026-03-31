@@ -2,8 +2,8 @@
 
 ## NATO AVT-331 — Goal-driven, multi-fidelity approaches for military vehicle system-level design
 
-**L2 Sea Benchmark developed by CNR-INM**  
-Andrea Serani and Matteo Diez
+**L2 Sea Benchmark**  
+Andrea Serani, Matteo Diez
 
 📄 [Paper](./doc/2022-M-Pellegrini_etal.pdf)  
 📊 [Presentation](./doc/NATO-AVT-331%20Sea%20Team%20L2%20Problem.pdf)  
@@ -14,7 +14,7 @@ Andrea Serani and Matteo Diez
 
 This repository distributes the **L2 Sea Benchmark**, developed within the NATO AVT-331 context.
 
-The benchmark provides a **multi-fidelity hydrodynamic test case** based on the **DTMB-5415 hull**, and is used in the context of:
+The benchmark provides a **multi-fidelity hydrodynamic test case** based on the **DTMB-5415 hull**, and is used in:
 
 - multi-fidelity optimization  
 - uncertainty quantification (UQ)  
@@ -25,9 +25,17 @@ The source code is included and can be used for simulations, but it should be co
 
 ---
 
+## 🖼️ Benchmark geometry
+
+![DTMB 5415 hull](docs/images/dtmb5415.png)
+
+*(Add here a representative image of the DTMB-5415 hull or benchmark setup)*
+
+---
+
 ## 🔗 External usage
 
-This benchmark is included in the benchmark library of UMBridge and is used for uncertainty quantification and optimization studies.
+This benchmark is included in the benchmark library of :contentReference[oaicite:0]{index=0} and is used for uncertainty quantification and optimization studies.
 
 In this context, the L2 Sea benchmark is exposed through a standardized model interface and can be accessed within containerized workflows.
 
@@ -247,16 +255,8 @@ See:
 
 ---
 
-## 👥 Authors
-
-Developed by:
-
-- CNR-INM  
-- MAO Research Group  
-
----
-
 ## 🌐 Links
 
 MAO Research Group:  
-https://www.inm.cnr.it/groups/mao/
+https://cnr-inm-mao.github.io/
+
