@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it using the metadata below."
+title: "L2 Sea Benchmark"
+type: software
+authors:
+  - family-names: Serani
+    given-names: Andrea
+    orcid: https://orcid.org/0000-0002-8814-1793
+    affiliation: National Research Council-Institute of Marine Engineering (CNR-INM)
+  - family-names: Diez
+    given-names: Matteo
+    affiliation: National Research Council-Institute of Marine Engineering (CNR-INM)
+    orcid: https://orcid.org/0000-0001-6113-7893
+abstract: >
+  Multi-fidelity hydrodynamic benchmark based on the DTMB-5415 hull,
+  developed within the NATO AVT-331 context and distributed as a
+  reference implementation for optimization, uncertainty quantification,
+  and surrogate-based modeling studies.
+keywords:
+  - multi-fidelity
+  - hydrodynamics
+  - benchmark
+  - DTMB-5415
+  - uncertainty quantification
+  - optimization
+license: "GPL-3.0-only"
+repository-code: "https://github.com/cnr-inm-mao/l2-sea-benchmark"
+url: "https://github.com/cnr-inm-mao/l2-sea-benchmark"
+version: "1.0.0"
+date-released: "2026-03-31"
+doi: "10.5281/zenodo.XXXXXXX"
