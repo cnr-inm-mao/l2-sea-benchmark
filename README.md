@@ -27,9 +27,9 @@ The source code is included and can be used for simulations, but it should be co
 
 ## 🖼️ Benchmark geometry
 
-![DTMB 5415 hull](docs/images/dtmb5415.png)
-
-*(Add here a representative image of the DTMB-5415 hull or benchmark setup)*
+<p align="center">
+  <img src="doc/l2sea_example.png" alt="DTMB 5415 hull" width="600">
+</p>
 
 ---
 
